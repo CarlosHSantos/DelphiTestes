@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/28 20:44:13.000.006,C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\Softplan.groupproj=C:\Users\Carlos Henrique\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2016/07/03 15:51:39.833,C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\DelphiTestes.groupproj=C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\Softplan.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\Test\pCalculadoraTests.dproj"/>
+	</Default.Personality>
+</BorlandProject>

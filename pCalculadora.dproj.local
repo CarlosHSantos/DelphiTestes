@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/06/27 21:58:52.000.950,=C:\Users\Carlos Henrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/28 20:02:15.000.884,C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\Calculadora.pas=C:\Users\Carlos Henrique\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/06/28 20:02:15.000.884,C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\Calculadora.dfm=C:\Users\Carlos Henrique\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/06/28 20:02:34.000.716,C:\Users\Carlos Henrique\Desktop\Softplan - Carlos Henrique dos Santos\pCalculadora.dproj=C:\Users\Carlos Henrique\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
